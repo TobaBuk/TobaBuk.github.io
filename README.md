@@ -11,7 +11,7 @@ Three levels of IBM PC hardware:
 <ol>Software</ol>
 Levels one and two are the hardware the software, the third i sburned into the integrated circuit.
 
-<h2>Level One</h2>
+<h3>Level One</h3>
  <ul>Computers have three parts:</ul>
 <ul> Central Processing Unit(CPU)</ul>
 <ul> Memory Unit - containing the program to be executed and its data</ul>
